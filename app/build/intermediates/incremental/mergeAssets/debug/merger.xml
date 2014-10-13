@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets" >
+            <file
+                name="image1.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\image1.png" />
+            <file
+                name="color.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\color.png" />
+            <file
+                name="2.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\2.png" />
+            <file
+                name="bw.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\bw.png" />
+            <file
+                name="jackie_goldberg_toq.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\jackie_goldberg_toq.png" />
+            <file
+                name="mario_savio_toq.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\mario_savio_toq.png" />
+            <file
+                name="art_goldberg_toq.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\art_goldberg_toq.png" />
+            <file
+                name="michael_rossman_toq.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\michael_rossman_toq.png" />
+            <file
+                name="joan_baez_toq.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\joan_baez_toq.png" />
+            <file
+                name="jack_weinberg_toq.png"
+                path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\main\assets\jack_weinberg_toq.png" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\src\debug\assets" />
+    </dataSet>
+
+</merger>

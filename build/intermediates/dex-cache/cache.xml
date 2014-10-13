@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\build\intermediates\pre-dexed\debug\slf4j-b245c92339dcc161ea06e80f11ba245606673abf.jar"
+        jar="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\libs\slf4j.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1"/>
+    <item
+        dex="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\build\intermediates\pre-dexed\debug\flickrj-a6dedff7adb82c0b613200be45ab24c894b01c93.jar"
+        jar="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\libs\flickrj.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="08ff4a341260f9f438456d990396589d51a61e36"/>
+    <item
+        dex="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\build\intermediates\pre-dexed\debug\flickrapi-1.2-d0dd57544aacd74e6465f5e96a0ed4c4f59db5d4.jar"
+        jar="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\libs\flickrapi-1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8931fedb56cf7ac812171e88847703804d3070a0"/>
+    <item
+        dex="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\build\intermediates\pre-dexed\debug\android-toq-api-1.5.2-1564cfe174ded2fe77f00d15176adead63d66d1b.jar"
+        jar="C:\Users\Gabi\AndroidStudioProjects\CelebrateFSM\app\libs\android-toq-api-1.5.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="33b06af4f6ee27952eee84fe82ed15d8f603d4b7"/>
+
+</pre-dex-items>
